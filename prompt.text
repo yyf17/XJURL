@@ -1,11 +1,11 @@
 在当前根目录下面创建下面的文件夹，子文件夹以及 google colab文件
 Colab
-    chapter01.ipynb
-    chapter02.ipynb
-    chapter03.ipynb
+    chapter01.ipynb[https://github.com/yyf17/XJURL/blob/main/Colab/chapter01.ipynb]
+    chapter02.ipynb[https://github.com/yyf17/XJURL/blob/main/Colab/chapter02.ipynb]
+    chapter03.ipynb[https://github.com/yyf17/XJURL/blob/main/Colab/chapter03.ipynb]
     ....
-    chapter19.ipynb
-    chapter20.ipynb
+    chapter19.ipynb[https://github.com/yyf17/XJURL/blob/main/Colab/chapter19.ipynb]
+    chapter20.ipynb[https://github.com/yyf17/XJURL/blob/main/Colab/chapter20.ipynb]
 QR
     chapter01
     chapter02
@@ -15,24 +15,38 @@ QR
     chapter20
 Ref
     chapter01
-        ref01.md
+        ref01.md[https://github.com/yyf17/XJURL/blob/main/Ref/chapter01/ref01.md]
     chapter02
-        ref02.md
+        ref02.md[https://github.com/yyf17/XJURL/blob/main/Ref/chapter01/ref02.md]
     chapter03
-        ref03.md
+        ref03.md[https://github.com/yyf17/XJURL/blob/main/Ref/chapter01/ref03.md]
     ...
     chapter19
-        ref19.md
+        ref19.md[https://github.com/yyf17/XJURL/blob/main/Ref/chapter01/ref19.md]
     chapter20
-        ref20.md
-video
+        ref20.md[https://github.com/yyf17/XJURL/blob/main/Ref/chapter01/ref20.md]
+Video
     chapter01
+        v1.mp4[https://github.com/yyf17/XJURL/blob/main/Video/chapter01/v1.mp4]
     chapter02
+        v2.mp4[https://github.com/yyf17/XJURL/blob/main/Video/chapter01/v2.mp4]
     chapter03
+        v3.mp4[https://github.com/yyf17/XJURL/blob/main/Video/chapter01/v3.mp4]
     ...
     chapter19
-    chapter20 
+        v19.mp4[https://github.com/yyf17/XJURL/blob/main/Video/chapter01/v19.mp4]
+    chapter20
+        v20.mp4[https://github.com/yyf17/XJURL/blob/main/Video/chapter01/v20.mp4] 
     
+
+
+二维码生成工具：https://qrcodecreator.com/dashboard
+按照流程规范生成二维码：
+(1)代码的二维码：Colab的chapter01.ipynb[https://github.com/yyf17/XJURL/blob/main/Colab/chapter01.ipynb]的网址是https://github.com/yyf17/XJURL/blob/main/Colab/chapter01.ipynb，
+利用二维码生成工具生成的图片Colab01.png，并且放置在D:\code\XJURL\XJURL\QR\chapter01下面；
+（2）参考文献的二维码：D:\code\XJURL\XJURL\Ref\chapter01\ref01.md文件的网址是https://github.com/yyf17/XJURL/blob/main/Ref/chapter01/ref01.md，利用二维码生成工具生成的图片Ref01.png，并且放置在D:\code\XJURL\XJURL\QR\chapter01下面；
+（3）演示视频的二维码：D:\code\XJURL\XJURL\Video\chapter01\v1.mp4文件的网址是https://github.com/yyf17/XJURL/blob/main/Video/chapter01/v1.mp4，
+利用二维码生成工具生成的图片Video01.png，并且放置在D:\code\XJURL\XJURL\QR\chapter01下面；
 
 
 如果没有上面的技能，请添加技能，并完成上面的任务
